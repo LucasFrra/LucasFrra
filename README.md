@@ -1,5 +1,8 @@
 <picture>
-<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/gaming_room_dark_mode.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="./images/gaming_room_light_mode.jpg">
+  <img alt="Shows a gaming room lit by the sun if the light mode is activated or otherwise lit by the moon" src="">
+</picture>
 
 ### Hello World
 
