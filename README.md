@@ -6,7 +6,7 @@
 
 <br />
 <a href="https://www.linkedin.com/in/lucas-ferreira0511">
-    <img src="./images/linkedin_logo.png" height="15px" alt="Lucas Ferreira's Linkedin">lucas-ferreira0511
+    <img src="./images/linkedin_logo.png" height="15px" alt="Lucas Ferreira's Linkedin"> lucas-ferreira0511
 </a>
 
 <br/>
@@ -24,6 +24,8 @@ For now, I am developing my skills in:
 ## Social 👋 
 - Best way to connect or talk with me about anything almost is on [LinkedIn](https://www.linkedin.com/in/lucas-ferreira0511), 
 - But you can also talk to me via my email address and my phone number on my resume ! 📄
+
+
 
 ```
 function seeYouSoon() {
