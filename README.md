@@ -25,4 +25,8 @@ For now, I am developing my skills in:
 - Best way to connect or talk with me about anything almost is on [LinkedIn](https://www.linkedin.com/in/lucas-ferreira0511), 
 - But you can also talk to me via my email address and my phone number on my resume ! 📄
 
-## Bye, see you!
+```
+function seeYouSoon() {
+  console.log("Bye, see you!");
+}
+```
